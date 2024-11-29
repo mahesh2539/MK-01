@@ -1,0 +1,1 @@
+EmailUrlInfo | where Url contains "URL link"
